@@ -17,8 +17,8 @@ a = 5
 b = 10
 
 print(f"Sum: {a + b}")
-print(f"subtraction: {a - b}")
-print(f"multiplication: {a * b}")
-print(f"division: {a / b}")
+print(f"Subtraction: {a - b}")
+print(f"Multiplication: {a * b}")
+print(f"Division: {a / b}")
 print(f"Whole number divide: {a // b}")
 print(f"Module divide: {a % b}")
