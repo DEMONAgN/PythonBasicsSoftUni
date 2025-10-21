@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff9bfdc6-c8a8-4c6a-82aa-727db39116a8" name="Changes" comment="First Steps In Coding Lecture Completed">
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/basketball_equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/deposit_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/fish_tank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/food_delivery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/radians_to_degrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/repainting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/supplies_for_school.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/usd_to_bgn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/vacation_books_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="ff9bfdc6-c8a8-4c6a-82aa-727db39116a8" name="Changes" comment="notes removed from lecture and added in main">
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/bonus_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/godzilla_vs_kong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/lunch_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/sum_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/time_plus_15_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/toy_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/world_swimming_record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Lecture/area_of_figures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Lecture/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Lecture/excellent_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Lecture/greater_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Lecture/number_100_200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Lecture/password_guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Lecture/speed_info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +69,25 @@
     "Python.7_projects_creation.executor": "Run",
     "Python.8_pet_shop.executor": "Run",
     "Python.9_yard_greening.executor": "Run",
+    "Python.area_of_figures.executor": "Run",
     "Python.basketball_equipment.executor": "Run",
+    "Python.bonus_score.executor": "Run",
+    "Python.even_or_odd.executor": "Run",
+    "Python.excellent_result.executor": "Run",
     "Python.fist_tank.executor": "Run",
     "Python.food_delivery.executor": "Run",
+    "Python.godzilla_vs_kong.executor": "Run",
+    "Python.greater_number.executor": "Run",
+    "Python.lunch_break.executor": "Run",
     "Python.notes.executor": "Run",
+    "Python.number_100_200.executor": "Run",
+    "Python.password_guess.executor": "Run",
     "Python.radians_to_degrees.executor": "Run",
     "Python.repainting.executor": "Run",
+    "Python.speed_info.executor": "Run",
+    "Python.sum_seconds.executor": "Run",
     "Python.supplies_for_school.executor": "Run",
+    "Python.toy_shop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -86,7 +102,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.basketball_equipment">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bavar\PycharmProjects\PyhtonBasicsSoftuni\2-Conditional-Statements-Lecture" />
+      <recent name="C:\Users\bavar\PycharmProjects\PyhtonBasicsSoftuni" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="basketball_equipment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyhtonBasicsSoftuni" />
       <option name="ENV_FILES" value="" />
@@ -131,8 +153,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="toy_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyhtonBasicsSoftuni" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-Conditional-Statements-Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-Conditional-Statements-Exercise/toy_shop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.toy_shop" />
         <item itemvalue="Python.basketball_equipment" />
         <item itemvalue="Python.repainting" />
       </list>
@@ -177,12 +222,30 @@
       <option name="project" value="LOCAL" />
       <updated>1760976368297</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Steps In Coding Exercise Completed">
+      <option name="closed" value="true" />
+      <created>1761038535771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761038535771</updated>
+    </task>
+    <task id="LOCAL-00005" summary="notes removed from lecture and added in main">
+      <option name="closed" value="true" />
+      <created>1761038752575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761038752575</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Steps In Coding Lecture Completed" />
     <MESSAGE value="Small letters to Capital into notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small letters to Capital into notes" />
+    <MESSAGE value="First Steps In Coding Exercise Completed" />
+    <MESSAGE value="notes removed from lecture and added in main" />
+    <option name="LAST_COMMIT_MESSAGE" value="notes removed from lecture and added in main" />
   </component>
 </project>
