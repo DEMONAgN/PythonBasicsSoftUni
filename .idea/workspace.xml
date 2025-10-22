@@ -4,10 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff9bfdc6-c8a8-4c6a-82aa-727db39116a8" name="Changes" comment="2-nd lecture and exercise completed">
-      <change afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/shopping.py" afterDir="false" />
+    <list default="true" id="ff9bfdc6-c8a8-4c6a-82aa-727db39116a8" name="Changes" comment="Added Practice Exams folder and empty .py file">
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/cinema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/fishing_boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/hotel_room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/journey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/new_house.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/on_time_for_the_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/operations_between_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/ski_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/summer_outfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/animal_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/cinema_ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/day-of-week.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/fruit_or_vegetable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/fruit_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/invalid_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/number_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/personal_titles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/small_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/trade_commissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/weekend_or_working_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Lecture/working_hours.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/world_swimming_record.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-Conditional-Statements-Exercise/world_swimming_record.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,26 +76,45 @@
     "Python.7_projects_creation.executor": "Run",
     "Python.8_pet_shop.executor": "Run",
     "Python.9_yard_greening.executor": "Run",
+    "Python.animal_type.executor": "Run",
     "Python.area_of_figures.executor": "Run",
     "Python.basketball_equipment.executor": "Run",
     "Python.bonus_score.executor": "Run",
+    "Python.cinema.executor": "Run",
+    "Python.cinema_ticket.executor": "Run",
+    "Python.day-of-week.executor": "Run",
     "Python.even_or_odd.executor": "Run",
     "Python.excellent_result.executor": "Run",
     "Python.fist_tank.executor": "Run",
     "Python.food_delivery.executor": "Run",
+    "Python.fruit_or_vegetable.executor": "Run",
+    "Python.fruit_shop.executor": "Run",
     "Python.godzilla_vs_kong.executor": "Run",
     "Python.greater_number.executor": "Run",
+    "Python.hotel_room.executor": "Run",
+    "Python.invalid_number.executor": "Run",
+    "Python.journey.executor": "Run",
     "Python.lunch_break.executor": "Run",
+    "Python.new_house.executor": "Run",
     "Python.notes.executor": "Run",
     "Python.number_100_200.executor": "Run",
+    "Python.number_in_range.executor": "Run",
+    "Python.operations_between_numbers.executor": "Run",
     "Python.password_guess.executor": "Run",
+    "Python.personal_titles.executor": "Run",
     "Python.radians_to_degrees.executor": "Run",
     "Python.repainting.executor": "Run",
     "Python.shopping.executor": "Run",
+    "Python.ski_trip.executor": "Run",
+    "Python.small_shop.executor": "Run",
     "Python.speed_info.executor": "Run",
     "Python.sum_seconds.executor": "Run",
+    "Python.summer_outfit.executor": "Run",
     "Python.supplies_for_school.executor": "Run",
     "Python.toy_shop.executor": "Run",
+    "Python.trade_commissions.executor": "Run",
+    "Python.weekend_or_working_day.executor": "Run",
+    "Python.working_hours.executor": "Run",
     "Python.world_swimming_record.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -98,7 +136,7 @@
       <recent name="C:\Users\bavar\PycharmProjects\PyhtonBasicsSoftuni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.shopping">
+  <component name="RunManager">
     <configuration name="basketball_equipment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyhtonBasicsSoftuni" />
       <option name="ENV_FILES" value="" />
@@ -121,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repainting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="journey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyhtonBasicsSoftuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-First-Steps-In-Coding-Exercise/repainting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/journey.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="toy_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="summer_outfit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyhtonBasicsSoftuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-Conditional-Statements-Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-Conditional-Statements-Exercise/toy_shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-Conditional-Statements-Advanced-Exercise/summer_outfit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.journey" />
+        <item itemvalue="Python.summer_outfit" />
         <item itemvalue="Python.shopping" />
         <item itemvalue="Python.world_swimming_record" />
         <item itemvalue="Python.basketball_equipment" />
-        <item itemvalue="Python.toy_shop" />
-        <item itemvalue="Python.repainting" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761058292696</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added 2 homeworks tasks from Exercise">
+      <option name="closed" value="true" />
+      <created>1761080307750</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761080307750</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Practice Exams folder and empty .py file">
+      <option name="closed" value="true" />
+      <created>1761080512246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761080512246</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -299,6 +353,8 @@
     <MESSAGE value="First Steps In Coding Exercise Completed" />
     <MESSAGE value="notes removed from lecture and added in main" />
     <MESSAGE value="2-nd lecture and exercise completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-nd lecture and exercise completed" />
+    <MESSAGE value="Added 2 homeworks tasks from Exercise" />
+    <MESSAGE value="Added Practice Exams folder and empty .py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Practice Exams folder and empty .py file" />
   </component>
 </project>
